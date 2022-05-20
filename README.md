@@ -1,0 +1,2 @@
+# mayern
+mayern-earning-site
